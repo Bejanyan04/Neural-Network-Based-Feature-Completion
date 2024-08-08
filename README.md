@@ -1,5 +1,6 @@
 # Neural-Network-Based-Feature-Completion
-This project aims to complete missing features in datasets using neural network architectures. It addresses the challenge of predicting the complete set of features from a subset of available inputs. The task is supervised, and the project focuses on achieving accurate feature completion in scenarios with weak feature connections.
+This project aims to complete missing features in datasets using neural network architectures. It addresses the challenge of predicting the complete set of features from a subset of available inputs. The task is supervised, and the project focuses on achieving accurate feature completion in scenarios with weak feature connections. The project mainly focuses on developing neural networks from scratch, implementing custom architectures tailored to the specific needs of feature completion, and ensuring optimal performance through innovative training strategies and loss functions.
+
 
 ## Key Features
 
